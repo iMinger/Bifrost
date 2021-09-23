@@ -6,6 +6,11 @@
 //  Copyright © 2017年 jackie@youzan. All rights reserved.
 //
 
+
+
+// 有赞组件化方案： https://juejin.cn/post/7004040038480625677?utm_source=gold_browser_extension
+
+
 #import "AppDelegate.h"
 #import "BifrostHeader.h"
 
